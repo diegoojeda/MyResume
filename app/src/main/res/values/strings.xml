@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Diego Ojeda\'s Resume</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Nav menu -->
+    <string name="nav_home">Home</string>
+    <string name="nav_contact_me">Contact me</string>
+    <string name="nav_portfolio">My portfolio</string>
+    <string name="nav_previous_experience">My studies</string>
+    <string name="nav_education">Previous experience</string>
+
+    <!-- Fab -->
+    <string name="fab_twitter">Twitter</string>
+    <string name="fab_facebook">Facebook</string>
+    <string name="fab_linkedin">Linkedin</string>
+
+    <!-- Main activity -->
+    <string name="main_about_me">About me</string>
+    <string name="main_about_me_description">Lorem fistrum quietooor va usté muy cargadoo va usté muy cargadoo no puedor mamaar qué dise usteer me cago en tus muelas. \nA wan me cago en tus muelas qué dise usteer te va a hasé pupitaa condemor. No puedor llevame al sircoo te va a hasé pupitaa quietooor ese hombree pecador qué dise usteer a gramenawer se calle ustée pupita. \nTe voy a borrar el cerito amatomaa hasta luego Lucas no te digo trigo por no llamarte Rodrigor condemor apetecan a gramenawer se calle ustée. Se calle ustée por la gloria de mi madre llevame al sircoo quietooor. \nPor la gloria de mi madre no puedor jarl me cago en tus muelas. Mamaar apetecan amatomaa torpedo te voy a borrar el cerito jarl llevame al sircoo ese pedazo de.</string>
+
+    <string name="main_motivation">Motivation of this application</string>
+    <string name="main_motivation_description">Lorem fistrum quietooor va usté muy cargadoo va usté muy cargadoo no puedor mamaar qué dise usteer me cago en tus muelas. \nA wan me cago en tus muelas qué dise usteer te va a hasé pupitaa condemor. No puedor llevame al sircoo te va a hasé pupitaa quietooor ese hombree pecador qué dise usteer a gramenawer se calle ustée pupita. \nTe voy a borrar el cerito amatomaa hasta luego Lucas no te digo trigo por no llamarte Rodrigor condemor apetecan a gramenawer se calle ustée. Se calle ustée por la gloria de mi madre llevame al sircoo quietooor. \nPor la gloria de mi madre no puedor jarl me cago en tus muelas. Mamaar apetecan amatomaa torpedo te voy a borrar el cerito jarl llevame al sircoo ese pedazo de.</string>
+</resources>
