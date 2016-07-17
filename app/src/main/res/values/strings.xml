@@ -8,8 +8,9 @@
     <string name="nav_home">Home</string>
     <string name="nav_contact_me">Contact me</string>
     <string name="nav_portfolio">My portfolio</string>
-    <string name="nav_previous_experience">My studies</string>
-    <string name="nav_education">Previous experience</string>
+    <string name="nav_previous_experience">Previous experience</string>
+    <string name="nav_skills">Tools &amp; Skills</string>
+    <string name="nav_education">My education</string>
 
     <!-- Fab -->
     <string name="fab_twitter">Twitter</string>

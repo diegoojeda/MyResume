@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <group android:checkableBehavior="single">
+    <group
+        android:checkableBehavior="single">
 
         <item
             android:id="@+id/nav_home"
@@ -19,6 +20,11 @@
             android:title="@string/nav_previous_experience"/>
 
         <item
+            android:id="@+id/nav_skills"
+            android:icon="@drawable/ic_menu_tools"
+            android:title="@string/nav_skills"/>
+
+        <item
             android:id="@+id/nav_education"
             android:icon="@drawable/ic_menu_education"
             android:title="@string/nav_education"/>
@@ -27,13 +33,6 @@
             android:id="@+id/nav_contact_me"
             android:icon="@drawable/ic_menu_contact_me"
             android:title="@string/nav_contact_me"/>
-
     </group>
-
-    <item android:title="Communicate">
-        <menu>
-
-        </menu>
-    </item>
 
 </menu>

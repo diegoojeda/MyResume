@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    card_view:cardCornerRadius="4dp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/portfolio_project_card_item_iv"/>
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:indeterminate="true"
+            android:id="@+id/portfolio_project_card_item_progress_bar"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/portfolio_project_card_item_title_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Generic.Content1.Bold"/>
+
+</android.support.v7.widget.CardView>

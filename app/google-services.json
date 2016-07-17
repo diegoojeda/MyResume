@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "977286948160",
+    "firebase_url": "https://myresume-60c6e.firebaseio.com",
+    "project_id": "myresume-60c6e",
+    "storage_bucket": "myresume-60c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977286948160:android:fdc1693b45ef0375",
+        "android_client_info": {
+          "package_name": "ojeda.diego.myresume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977286948160-fukdqj44f538s1urnqm0i779dera6nqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ojeda.diego.myresume",
+            "certificate_hash": "A7C9593D9CF701116DC8024E474520DE8FD037FD"
+          }
+        },
+        {
+          "client_id": "977286948160-i31n14tujg6enpkihbrqpdsss8njafea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1rZ_p5lMkHhjgiFW-XeXF6GTm3cUvemM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
