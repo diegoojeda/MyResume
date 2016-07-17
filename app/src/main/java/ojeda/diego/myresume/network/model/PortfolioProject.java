@@ -14,6 +14,7 @@ public class PortfolioProject extends BaseModel implements Parcelable{
     private String name;
     private String description;
     private ArrayList<String> images;
+    private String thumbnailImage;
 
     public PortfolioProject(){}
 
@@ -21,6 +22,7 @@ public class PortfolioProject extends BaseModel implements Parcelable{
         name = in.readString();
         description = in.readString();
         images = in.createStringArrayList();
+        thumbnailImage = in.readString();
     }
 
     @Override
@@ -28,6 +30,7 @@ public class PortfolioProject extends BaseModel implements Parcelable{
         dest.writeString(name);
         dest.writeString(description);
         dest.writeStringList(images);
+        dest.writeString(thumbnailImage);
     }
 
     @Override
@@ -69,5 +72,13 @@ public class PortfolioProject extends BaseModel implements Parcelable{
 
     public void setImages(ArrayList<String> images) {
         this.images = images;
+    }
+
+    public String getThumbnailImage() {
+        return thumbnailImage;
+    }
+
+    public void setThumbnailImage(String thumbnailImage) {
+        this.thumbnailImage = thumbnailImage;
     }
 }
